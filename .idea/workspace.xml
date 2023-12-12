@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad5357f5-4aef-469a-9e24-9c52f590ccc1" name="Changes" comment="init project">
-      <change beforePath="$PROJECT_DIR$/dating-app/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/app/app.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/app/app.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/app/app.routes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/src/styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dating-app/tsconfig.spec.json" beforeDir="false" />
-    </list>
+    <list default="true" id="ad5357f5-4aef-469a-9e24-9c52f590ccc1" name="Changes" comment="init project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +13,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/שולחן העבודה/Projects/dating-app/Frontend",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="init project">
+      <option name="closed" value="true" />
+      <created>1702049205713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702049205713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
