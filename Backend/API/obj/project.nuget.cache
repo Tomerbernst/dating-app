@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kts/ILqESId36pmOJpeRUWxgNndmQwNRJ0XpTx2g7EyJXq3XVf5LgVtjDthRH7BAu0wgNl6N2EywMaKD84j3vw==",
+  "dgSpecHash": "ZiibgC+zHXuurK6E+XpkgIS4iMl51K2rINknk2z6uDvqtg8IWj6HtAzRPKqO0RNbp50SGvtcGS2uc2pGO6OJkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\OneDrive\\שולחן העבודה\\Projects\\dating-app\\Backend\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\שולחן העבודה\\Projects\\dating-app\\Backend\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
@@ -59,26 +59,5 @@
     "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

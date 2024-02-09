@@ -11,8 +11,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
-          "Microsoft.EntityFrameworkCore.Sqlite": "8.0.0",
-          "System.IdentityModel.Tokens.Jwt": "7.0.3"
+          "Microsoft.EntityFrameworkCore.Sqlite": "8.0.0"
         },
         "runtime": {
           "API.dll": {}
