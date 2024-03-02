@@ -1,5 +1,26 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+
+# Compiled dynamic link libraries
+*.dll
+# Executable files
+*.exe
+
+# VS Code directories
+.vscode/
+
 # Compiled output
 /dist
 /tmp
