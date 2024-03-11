@@ -129,3 +129,5 @@ C:\Users\USER\OneDrive\שולחן העבודה\Projects\dating-app\Backend\api\o
 C:\Users\USER\OneDrive\שולחן העבודה\Projects\dating-app\Backend\api\obj\Debug\net8.0\API.pdb
 C:\Users\USER\OneDrive\שולחן העבודה\Projects\dating-app\Backend\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\USER\OneDrive\שולחן העבודה\Projects\dating-app\Backend\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\USER\OneDrive\שולחן העבודה\Projects\dating-app\Backend\API\bin\Debug\net8.0\Data\UserSeedData.json
+C:\Users\USER\OneDrive\שולחן העבודה\Projects\dating-app\Backend\API\bin\Debug\net8.0\AutoMapper.dll
