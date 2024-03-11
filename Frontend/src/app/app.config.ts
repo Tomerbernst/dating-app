@@ -8,6 +8,7 @@ import { provideAnimations } from '@angular/platform-browser/animations';
 import { provideHttpClient, withInterceptors } from "@angular/common/http";
 import {errorInterceptor} from "./_interceptors/error.interceptor";
 import {jwtInterceptor} from "./_interceptors/jwt.interceptor";
+import {TabsModule} from "ngx-bootstrap/tabs";
 
 export const appConfig: ApplicationConfig = {
   providers: [provideRouter(routes),
@@ -16,7 +17,8 @@ export const appConfig: ApplicationConfig = {
     provideAnimations(),
       provideHttpClient(withInterceptors([errorInterceptor,jwtInterceptor])),
     importProvidersFrom(
-        BsDropdownModule.forRoot(),
+      TabsModule.forRoot(),
+      BsDropdownModule.forRoot(),
         ToastrModule.forRoot({
           positionClass: 'toast-bottom-right'
         })
