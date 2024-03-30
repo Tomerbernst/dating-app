@@ -5,11 +5,12 @@ import {NavComponent} from "./nav/nav.component";
 import {AccountService} from "./_services/account.service";
 import {IUser} from "./_models/user";
 import {HomeComponent} from "./home/home.component";
+import {NgxSpinnerModule} from "ngx-spinner";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet, NavComponent, HomeComponent],
+  imports: [CommonModule, RouterOutlet, NavComponent, HomeComponent, NgxSpinnerModule],
   providers:[AccountService],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'

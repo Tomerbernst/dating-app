@@ -24,13 +24,11 @@ export class AccountService {
           localStorage.setItem('user', JSON.stringify(user));
           this.currentUserSource.next(user);
           this.number = user;
-          console.log(3, this.number);
         }
       }
     ))
   };
 getNumber() {
-  console.log(1, this.number);
   return this.number;
 }
   register(model: any) {
@@ -45,7 +43,7 @@ getNumber() {
   }
 
   setCurrentUser(user: IUser) {
-    this,this.currentUserSource.next(user);
+    this.currentUserSource.next(user);
   }
   logout() {
     localStorage.removeItem('user');

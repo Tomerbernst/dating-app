@@ -19,8 +19,8 @@
         Welcome {{user.username | titlecase}}
         </a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">Edit profile</a></li>
-          <li><a class="dropdown-item" href="#" (click)="logout()">Logout</a></li>
+          <li><a class="dropdown-item" routerLink="/member/edit">Edit profile</a></li>
+          <li><a class="dropdown-item" (click)="logout()">Logout</a></li>
         </ul>
   </div>
 
